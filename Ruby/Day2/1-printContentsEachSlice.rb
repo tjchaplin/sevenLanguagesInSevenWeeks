@@ -1,0 +1,1 @@
+(1..16).to_a.each_slice(4) {|x| puts "#{x}"}
